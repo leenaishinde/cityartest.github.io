@@ -26,9 +26,10 @@ h2 {
 	margin:8px 0;
 	padding:8px 0;
 	font-size:24px;
-	font-weight:normal;
-	color:#6e6e6e;
+	font-weight:bold;
+	color:#770404;
 }
+
 p {
 	margin:8px 0;
 	padding:0 0 8px 0;
@@ -248,6 +249,7 @@ p.infopost {
 	color:#fff;
 	background:#5c8cb4;
 }
+
 p.infopost a {
 	padding:0 2px;
 	text-decoration:none;
@@ -256,6 +258,14 @@ p.infopost a {
 }
 p.infopost a:hover {
 	text-decoration:underline;
+}
+
+p.infopostN {
+	margin:0 0 8px;
+	padding:6px 16px 0 16px;
+	height:23px;
+	color:#fff;
+	background:#740316;
 }
 .article a.com {
 	display:block;
